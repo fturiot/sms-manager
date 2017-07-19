@@ -1,0 +1,29 @@
+{
+  "name": "sms-manager",
+  "version": "0.0.1",
+  "description": "Gestion de l'envoi de sms en lien avec plusieurs fournisseurs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fturiot/sms-manager.git"
+  },
+  "keywords": [
+    "envoi",
+    "sms",
+    "sms",
+    "manager",
+    "sms"
+  ],
+  "author": "frederic TURIOT",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fturiot/sms-manager/issues"
+  },
+  "homepage": "https://github.com/fturiot/sms-manager#readme"
+}
